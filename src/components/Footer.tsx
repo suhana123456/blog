@@ -32,20 +32,7 @@ const Footer: React.FC = () => {
           </ul>
         </div>
 
-        <div className={styles.socialSection}>
-          <h3>Follow Us</h3>
-          <div className={styles.socialLinks}>
-            <a href="https://facebook.com" target="_blank" rel="noopener noreferrer">
-              Facebook
-            </a>
-            
-            <a href="https://instagram.com" target="_blank" rel="noopener noreferrer">
-              Instagram
-            </a>
-            <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
-              LinkedIn
-            </a>
-          </div>
+       
         </div>
       </div>
       <div className={styles.bottomBar}>
